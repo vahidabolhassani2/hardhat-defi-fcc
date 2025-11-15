@@ -1,8 +1,6 @@
 .encryptedKey.json
 # vscode
 .vscode
-.template
-.guide
 typechain-types
 
 # hardhat
@@ -103,3 +101,7 @@ lint/tmp/
 # lint/reports/
 
 gas-report.txt
+
+# other
+.template
+.guide
