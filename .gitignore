@@ -2,6 +2,7 @@
 # vscode
 .vscode
 .template
+.guide
 typechain-types
 
 # hardhat
